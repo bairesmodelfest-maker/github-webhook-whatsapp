@@ -1,0 +1,1 @@
+{\n  "name": "whatsapp-webhook-server",\n  "version": "1.0.0",\n  "description": "A Node.js webhook server for WhatsApp integration via Twilio",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "twilio": "^3.51.0"\n  },\n  "author": "bairesmodelfest-maker",\n  "license": "ISC"\n}
